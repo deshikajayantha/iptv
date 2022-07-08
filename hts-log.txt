@@ -1,0 +1,187 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 Jul 2022 11:44:03 at http://103.139.171.5:5001/livetv.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://103.139.171.5:5001/livetv.php -O1 "C:\My Web Sites\new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:46:47	Error: 	"Not Found" (404) at link 103.139.171.5:5001/ab (from 103.139.171.5:5001/livetv.php)
+11:47:23	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Andy_Haryana&q=800&e=junk.m3u8
+11:47:56	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Surya_Cinema&q=800&e=junk.m3u8
+11:48:00	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=ABZY_Dhakad&q=800&e=junk.m3u8
+11:50:14	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=K_News_India&q=800&e=junk.m3u8
+11:50:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Channel_One_News&q=800&e=junk.m3u8
+11:51:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=AB_News&q=800&e=junk.m3u8
+11:51:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Toonami&q=800&e=junk.m3u8
+11:51:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Jio_Cricket_5_HD&q=1200&e=junk.m3u8
+11:52:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Jio_Football_Kannada_HD&q=1200&e=junk.m3u8
+11:52:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Jio_Football_Telugu_HD&q=1200&e=junk.m3u8
+11:52:32	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Sony_Six_HD_Bengali&q=800&e=junk.m3u8
+11:53:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Insight&q=800&e=junk.m3u8
+11:54:53	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Darshan_24&q=800&e=junk.m3u8
+11:55:02	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Katyayani&q=800&e=junk.m3u8
+11:55:18	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Amma&q=800&e=junk.m3u8
+11:55:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=DharmaGranth_TV&q=800&e=junk.m3u8
+11:55:27	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Rajyoga_TV&q=800&e=junk.m3u8
+11:55:36	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Surya_Bhakti&q=800&e=junk.m3u8
+11:55:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Sarvamangala&q=800&e=junk.m3u8
+11:55:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Siddhivinayak&q=800&e=junk.m3u8
+11:56:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Iskon_Temples_New&q=800&e=junk.m3u8
+11:56:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Braj_Darshan&q=800&e=junk.m3u8
+11:56:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Millionlights&q=800&e=junk.m3u8
+11:58:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=_evidya_8&q=800&e=junk.m3u8
+11:58:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Manipur_Educational_Channel&q=800&e=junk.m3u8
+11:58:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Meluha&q=800&e=junk.m3u8
+11:58:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Mahawani_English&q=800&e=junk.m3u8
+11:58:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=School_Education_Nagaland&q=800&e=junk.m3u8
+11:59:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Sanskritam&q=800&e=junk.m3u8
+11:59:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=GarvPunjabi&q=800&e=junk.m3u8
+12:01:55	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Akal_Academy_Group&q=800&e=junk.m3u8
+12:01:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Global_Sanjh&q=800&e=junk.m3u8
+12:02:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=World_Punjab&q=800&e=junk.m3u8
+12:02:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=QYOUHD&q=800&e=junk.m3u8
+12:02:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=HBO_HD&q=1200&e=junk.m3u8
+12:02:49	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=RDX_News&q=800&e=junk.m3u8
+12:03:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Peppers_TV&q=800&e=junk.m3u8
+12:04:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Lotus_News&q=800&e=junk.m3u8
+12:04:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Saileela_TV_Telugu&q=800&e=junk.m3u8
+12:05:21	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=ETV_Andhra_pradesh&q=800&e=junk.m3u8
+12:05:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=TV1&q=800&e=junk.m3u8
+12:08:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Nick_Gujarati&q=800&e=junk.m3u8
+12:08:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Sonic_Gujarati&q=800&e=junk.m3u8
+12:08:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Home_Learning_Gujarat1&q=800&e=junk.m3u8
+12:09:19	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Kappa_TV&q=800&e=junk.m3u8
+12:09:28	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Sakhi_TV&q=800&e=junk.m3u8
+12:09:34	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Asianet&q=800&e=junk.m3u8
+12:09:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=TWENTY_FOUR_NEWS&q=800&e=junk.m3u8
+12:10:54	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Daijiworld_TV_24X7&q=800&e=junk.m3u8
+12:12:09	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Bangla_Time&q=800&e=junk.m3u8
+12:12:14	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Sadhna_Aryan_News&q=800&e=junk.m3u8
+12:12:28	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Tripura_News&q=800&e=junk.m3u8
+12:13:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Dnyanganga_9_Marathi_Medium&q=800&e=junk.m3u8
+12:14:30	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Surya_Bhojpuri&q=800&e=junk.m3u8
+12:14:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): 103.139.171.5:5001/live.php?c=Dnyanganga_9_Urdhu_Medium&q=800&e=junk.m3u8
+12:36:45	Error: 	"Not Found" (404) at link 103.139.171.5:5001/EXTM3U url-tvg="http://kodi.botallen.com/tv/epg.xml" (from 103.139.171.5:5001/playlist.m3u)
+12:36:46	Warning: 	Retry after error -2 (Receive Time Out) at link 103.139.171.5:5001/live.php?c=PTC_DHOL_TV&q=800&e=junk.m3u8 (from 103.139.171.5:5001/playlist.m3u)
+12:37:43	Error: 	"Not Found" (404) at link 103.139.171.5:5001/assets/js/hide-banner.js (from 103.139.171.5:5001/play.php?c=Colors_HD)
+12:37:43	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png (from 103.139.171.5:5001/play.php?c=Jio_Events)
+12:37:44	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png (from 103.139.171.5:5001/play.php?c=MNPLUS)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Mumbai.png (from 103.139.171.5:5001/play.php?c=Sahara_Samay_Mumbai)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Neo_Sports.png (from 103.139.171.5:5001/play.php?c=Neo_Sports)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Neo_Prime.png (from 103.139.171.5:5001/play.php?c=Neo_Prime)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_SD.png (from 103.139.171.5:5001/play.php?c=Sony_ESPN_SD)
+12:37:45	Error: 	"Unknown error" (451) at link sagracdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Rox_HD.png (from 103.139.171.5:5001/play.php?c=Sony_Rox_HD)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems09.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AXN_HD.png (from 103.139.171.5:5001/play.php?c=AXN_HD)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems09.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Jaya_Shankara_TV.png (from 103.139.171.5:5001/play.php?c=Jaya_Jaya_Shankara_TV)
+12:37:45	Error: 	"Unknown error" (451) at link sagracdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.png (from 103.139.171.5:5001/play.php?c=ID)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_23.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_23)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_24.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_24)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_29.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_29)
+12:37:45	Error: 	"Unknown error" (451) at link sagracdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_25.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_25)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_26.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_26)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_27.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_27)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_28.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_28)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_30.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_30)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_31.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_31)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_32.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_32)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Winter_Olympic_Ch1.png (from 103.139.171.5:5001/play.php?c=Winter_Olympic_Ch1)
+12:37:45	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Action.png (from 103.139.171.5:5001/play.php?c=Housefull_Action)
+12:37:45	Error: 	"Unknown error" (451) at link sagracdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/National_Voice.png (from 103.139.171.5:5001/play.php?c=National_Voice)
+12:37:45	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png (from 103.139.171.5:5001/play.php?c=Sony_BBC_Earth_HD_Tamil)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png (from 103.139.171.5:5001/play.php?c=Movies_Now2_HD)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janataa_TV.png (from 103.139.171.5:5001/play.php?c=Janataa_TV)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_Fatafati.png (from 103.139.171.5:5001/play.php?c=Music_Fatafati)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Garv.png (from 103.139.171.5:5001/play.php?c=Garv)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png (from 103.139.171.5:5001/play.php?c=KTV_HD)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png (from 103.139.171.5:5001/play.php?c=Sun_Music_HD)
+12:37:46	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png (from 103.139.171.5:5001/play.php?c=Sun_TV_HD)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png (from 103.139.171.5:5001/play.php?c=Gemini_TV_HD)
+12:37:46	Error: 	"Unknown error" (451) at link sagracdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png (from 103.139.171.5:5001/play.php?c=Gemini_Music_HD)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems09.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png (from 103.139.171.5:5001/play.php?c=Gemini_Movies_HD)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png (from 103.139.171.5:5001/play.php?c=Surya_HD)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png (from 103.139.171.5:5001/play.php?c=Udaya_HD)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/I_Plus_News.png (from 103.139.171.5:5001/play.php?c=I_Plus_News)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Katyayani.png (from 103.139.171.5:5001/play.php?c=Katyayani)
+12:37:46	Error: 	"Unknown error" (451) at link sagracdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shiva_Shakti_Sai_TV.png (from 103.139.171.5:5001/play.php?c=Shiva_Shakti_Sai_TV)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mahua_Plus.png (from 103.139.171.5:5001/play.php?c=Mahua_Plus)
+12:37:46	Error: 	"Unknown error" (451) at link sagraecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus_Rajasthan.png (from 103.139.171.5:5001/play.php?c=Samachar_Plus_Rajasthan)
+12:37:46	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png (from 103.139.171.5:5001/play.php?c=First_India_News)
+12:37:47	Error: 	"Unknown error" (451) at link sagraecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PlayMyPlay.png (from 103.139.171.5:5001/play.php?c=PlayMyPlay)
+12:37:47	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zeal_News.png (from 103.139.171.5:5001/play.php?c=Zeal_News)
+12:37:47	Error: 	"Unknown error" (451) at link sagracdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Brilliant_TV_Hindi.png (from 103.139.171.5:5001/play.php?c=Brilliant_TV_Hindi)
+12:37:47	Error: 	"Unknown error" (451) at link sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Suddi_TV.png (from 103.139.171.5:5001/play.php?c=Suddi_TV)
+12:37:47	Error: 	"Unknown error" (451) at link sagracdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Punjabi.png (from 103.139.171.5:5001/play.php?c=Garv_Punjabi)
+12:37:47	Error: 	"Unknown error" (451) at link sagraecdnems09.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Gurbani.png (from 103.139.171.5:5001/play.php?c=Garv_Gurbani)
+12:37:47	Error: 	"Unknown error" (451) at link sagracdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png (from 103.139.171.5:5001/play.php?c=INH_24x7)
+12:37:47	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vaanavil.png (from 103.139.171.5:5001/play.php?c=Vaanavil)
+12:37:47	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png (from 103.139.171.5:5001/play.php?c=Swayam_Prabha_12)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png (from 103.139.171.5:5001/play.php?c=Toonami)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chintu_TV.png (from 103.139.171.5:5001/play.php?c=Chintu_TV)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png (from 103.139.171.5:5001/play.php?c=Kochu_TV)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png (from 103.139.171.5:5001/play.php?c=Chutti_TV)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png (from 103.139.171.5:5001/play.php?c=Kushi_TV)
+12:37:48	Error: 	"Unknown error" (451) at link sagracdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Cartoon.png (from 103.139.171.5:5001/play.php?c=Maha_Cartoon)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/home_shop_18.png (from 103.139.171.5:5001/play.php?c=home_shop_18)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Saral_Jeevan.png (from 103.139.171.5:5001/play.php?c=Saral_Jeevan)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png (from 103.139.171.5:5001/play.php?c=Sony_Mix)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_V.png (from 103.139.171.5:5001/play.php?c=Channel_V)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png (from 103.139.171.5:5001/play.php?c=etc)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png (from 103.139.171.5:5001/play.php?c=ZOOM)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prathana_TV.png (from 103.139.171.5:5001/play.php?c=Prathana_TV)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyana_Yogi.png (from 103.139.171.5:5001/play.php?c=Gyana_Yogi)
+12:37:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png (from 103.139.171.5:5001/play.php?c=Aradhana_TV)
+12:37:48	Error: 	"Unknown error" (451) at link sagracdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Adhyatam.png (from 103.139.171.5:5001/play.php?c=Adhyatam)
+12:37:48	Error: 	"Unknown error" (451) at link sagracdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maharashtra1.png (from 103.139.171.5:5001/play.php?c=Maharashtra1)
+12:37:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png (from 103.139.171.5:5001/play.php?c=Suvarna_News)
+12:37:48	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Studio_n.png (from 103.139.171.5:5001/play.php?c=Studio_n)
+12:37:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png (from 103.139.171.5:5001/play.php?c=Mazhavil_Manorama)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_9.png (from 103.139.171.5:5001/play.php?c=News_9)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems09.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV.png (from 103.139.171.5:5001/play.php?c=Gemini_TV)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_News.png (from 103.139.171.5:5001/play.php?c=Gemini_News)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_News.png (from 103.139.171.5:5001/play.php?c=Udaya_News)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png (from 103.139.171.5:5001/play.php?c=Sun_News)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png (from 103.139.171.5:5001/play.php?c=Udaya_Movies)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kiran_TV.png (from 103.139.171.5:5001/play.php?c=Kiran_TV)
+12:37:49	Error: 	"Unknown error" (451) at link sagracdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/K1_TV.png (from 103.139.171.5:5001/play.php?c=K1_TV)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies.png (from 103.139.171.5:5001/play.php?c=Gemini_Movies)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png (from 103.139.171.5:5001/play.php?c=Sun_Life)
+12:37:49	Error: 	"Unknown error" (451) at link sagracdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png (from 103.139.171.5:5001/play.php?c=Gemini_Life)
+12:37:49	Error: 	"Unknown error" (451) at link sagracdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Alankar_TV.png (from 103.139.171.5:5001/play.php?c=Alankar_TV)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_TV.png (from 103.139.171.5:5001/play.php?c=Udaya_TV)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_TV.png (from 103.139.171.5:5001/play.php?c=Tarang_TV)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/OTV_Odisha_TV.png (from 103.139.171.5:5001/play.php?c=OTV_Odisha_TV)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png (from 103.139.171.5:5001/play.php?c=Adithya_TV)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png (from 103.139.171.5:5001/play.php?c=Gemini_Comedy)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png (from 103.139.171.5:5001/play.php?c=Udaya_Comedy)
+12:37:49	Warning: 	Retry after error -4 (No data (connection closed)) at link jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png (from 103.139.171.5:5001/play.php?c=mh1_Music)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png (from 103.139.171.5:5001/play.php?c=Udaya_Music)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png (from 103.139.171.5:5001/play.php?c=Sun_Music)
+12:37:49	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music.png (from 103.139.171.5:5001/play.php?c=Gemini_Music)
+12:37:49	Error: 	"Unknown error" (451) at link sagracdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png (from 103.139.171.5:5001/play.php?c=Surya_Music)
+12:37:49	Error: 	"Unknown error" (451) at link sagracdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_Music.png (from 103.139.171.5:5001/play.php?c=Tarang_Music)
+12:37:49	Warning: 	File not parsed, looks like binary: 103.139.171.5:5001/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+12:37:58	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png
+12:37:58	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png (real one is sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png)
+12:37:58	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png
+12:37:58	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png (real one is sagraecdnems10.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png)
+12:37:58	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png
+12:37:58	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png (real one is sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png)
+12:37:58	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png
+12:37:58	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png (real one is sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png)
+12:37:59	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png
+12:37:59	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png (real one is sagraecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png)
+12:38:00	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png
+12:38:00	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png (real one is sagraecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png)
+12:38:01	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png
+12:38:01	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png (real one is sagraecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png)
+12:38:03	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png
+12:38:03	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png (real one is sagracdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png)
+12:38:07	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png
+12:38:07	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png (real one is sagracdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png)
+12:38:11	Warning: 	Moved Temporarily for jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png
+12:38:11	Warning: 	Warning moved treated for jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png (real one is sagraecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png)
+12:38:12	Error: 	"Unknown error" (451) at link sagraecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png (from 103.139.171.5:5001/play.php?c=Sun_TV_HD)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 minutes 16 seconds : 2520 links scanned, 2409 files written (54793614 bytes overall) [55661269 bytes received at 17094 bytes/sec], 487254 bytes transferred using HTTP compression in 4 files, ratio 27%, 1.9 requests per connection
+(89 errors, 87 warnings, 0 messages)

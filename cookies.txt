@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+103.139.171.5:5001	TRUE	/	FALSE	1999999999	PHPSESSID	7i4oqmnag82af0f83acv673fm7
+
